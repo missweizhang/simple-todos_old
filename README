@@ -1,0 +1,13 @@
+Meteor tutorial: 
+
+simple todos
+https://www.meteor.com/tutorials/blaze/creating-an-app
+
+To run the newly created app:
+> cd simple-todos
+> meteor npm install
+> meteor
+
+Open your web browser and go to
+http://localhost:3000
+
